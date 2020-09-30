@@ -7,6 +7,7 @@ permalink: /Resume/
 ---
 Detailed C.V. available on request.
 ### Awards and Honors
+1. NSF-INTERN Award (For internship at Sandia National Laboratories), Fall 2020
 1. Graduate Excellence Fellowship, Dept. of Aerospace Engineering, TAMU 2020
 1. Amelia Earhart Fellowship, Zonta International, 2019
 1. Susan M. Arsevan ‘Make a Difference’ Memorial Award, Women in Science and Engineering (WISE), Texas A&M University (TAMU), 2018
