@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vedang M. Deshpande"
+title                    : "Komal Kumari"
 title_separator          : "-"
-name                     : &name "Vedang M. Deshpande"
+name                     : &name "Komal Kumari"
 description              : &description "Personal Webpage"
 url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vedang M. Deshpande"
+  name             : "Komal Kumari"
   avatar           : "my_profile.png"
   bio              : "Ph.D. Student, Texas A&M University"
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jdoVOGwAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jSISqIIAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Vedang_Mohanrao_Deshpande"
+  researchgate     : "https://www.researchgate.net/profile/Komal_Kumari11"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vedang-deshpande"
+  github           : "komal-kgp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "vedang-deshpande"
+  linkedin         : "komal-kumari-61a5844b"
   orcid            : "https://orcid.org/0000-0003-0661-0259"
   pinterest        :
   soundcloud       :
