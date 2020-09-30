@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: https://komal-kgp.github.io/
 
+  - title: "Research"
+    url: https://komal-kgp.github.io/Research/
+
   - title: "Publications"
     url: https://komal-kgp.github.io/Publications/
-
-  - title: "Talks"
-    url: https://komal-kgp.github.io/Talks/
 
   - title: "Resume"
     url: https://komal-kgp.github.io/Resume/
