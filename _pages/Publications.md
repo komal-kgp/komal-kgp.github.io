@@ -7,8 +7,8 @@ permalink: /Publications/
 ---
 <sup>*Please [contact](https://komal-kgp.github.io/Contact/){:target="_blank"} me for the PDF files of manuscripts.</sup>
 ### Peer Reviewed Papers
-1. K. Kumari, D. Donzis,  A generalized von Neumann analysis for multi-level schemes: stability and spectral accuracy, Journal of Computational Physic, 2020 (Accepted)
-1. K. Kumari, D. Donzis,  Direct Numerical Simulations of turbulent flows using high-order Asynchrony-Tolerant schemes: accuracy and performance at extreme scales, Journal of Computational Physic, 2020 ([Publisher Link](https://doi.org/10.1016/j.jcp.2020.109626){:target="_blank"})
+1. K. Kumari, D. Donzis,  A generalized von Neumann analysis for multi-level schemes: stability and spectral accuracy, Journal of Computational Physics, 2020 (Accepted)
+1. K. Kumari, D. Donzis,  Direct Numerical Simulations of turbulent flows using high-order Asynchrony-Tolerant schemes: accuracy and performance at extreme scales, Journal of Computational Physics, 2020 ([Publisher Link](https://doi.org/10.1016/j.jcp.2020.109626){:target="_blank"})
 1. K. Kumari, R. Bhattacharya, D. Donzis, A unified framework for deriving optimal finite differences, Journal of Computational Physics, 2019 ([Publisher Link](https://doi.org/10.1016/j.jcp.2019.108957){:target="_blank"})
 1. K. Kumari, S. Mahapatra, S. Ghosh, J. Mathew, Invariants of velocity gradient tensor in supersonic turbulent pipe, nozzle, and diffuser flows, Physics of Fluids, 2018  ([Publisher Link](https://doi.org/10.1063/1.5004468){:target="_blank"})
 1. K. Kumari, S. Ghosh, INVARIANTS OF VELOCITY GRADIENT TENSOR IN COMPRESSIBLE PIPE, NOZZLE AND DIFFUSER FLOWS, Tenth International Symposium on Turbulence and Shear Flow Phenomena, 2017  ([Publisher Link](http://tsfp10.org/TSFP10_program/2/121.pdf){:target="_blank"})
